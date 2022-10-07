@@ -316,6 +316,6 @@ plt.plot(lam, f_norm, color = "k")
 for item in he_trip:
     plt.axvline(item*1e8, linestyle = "--", color = "g")
     
-plt.xlabel("Wavelength (r$\AA$)")
+plt.xlabel("Wavelength ($\AA$)")
 plt.ylabel("Normalised flux")
 plt.show()
