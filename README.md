@@ -7,4 +7,4 @@ This code contains a 3D model of an exoplanetary atmosphere which is described b
 ![Radiative transfer schematic](https://github.com/krsna336/3D_model_He_trip/blob/main/schematic_rt.png?raw=true)
 
 
-Additionally, a limb darkening profile of the host star can be included and the final output is a transmission spectrum in Helium absoprtion triplet region.
+Additionally, a limb darkening profile for the host star can be included. The final output from the code is the transmission spectrum of the exoplanet in Helium absoprtion triplet region (i.e., near 10830 $\AA$).
