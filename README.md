@@ -1,4 +1,4 @@
-# *3*D model for Helium triplet absorption transmission spectrum (3D HATS)
+# **3D** model for **H**elium triplet **A**bsorption **T**ransmission **S**pectrum (3D HATS)
 
 This is my Master's thesis code I've written under the supervision of Dr. Antonija Oklopcic. 
 
